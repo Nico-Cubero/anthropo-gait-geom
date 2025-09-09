@@ -1,5 +1,7 @@
 # Leveraging Implicit 3D Geometry for Biometric and Anthropometric Estimation from Gait
 
+[![https://www.researchgate.net/publication/395381270_Leveraging_Implicit_3D_Geometry_for_Biometric_and_Anthropometric_Estimation_from_Gait](https://img.shields.io/badge/%20-Read_on_ResearchGate-blue.svg?logo=researchgate&color=00CCBB&labelColor=555555)](https://www.researchgate.net/publication/395381270_Leveraging_Implicit_3D_Geometry_for_Biometric_and_Anthropometric_Estimation_from_Gait)
+
 Source code for the conference paper presented in *IJCB 2025* (IEEE International Joint Conference on Biometrics)
 
 ## Abstract
